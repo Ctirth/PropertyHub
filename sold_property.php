@@ -202,7 +202,7 @@ include("header.php");
       <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/functions.js"></script>
-    <script src="https://maps.google.com/maps/api/js?sensor=true&amp;key=AIzaSyCiRALrXFl5vovX0hAkccXXBFh7zP8AOW8"></script>
+    <script src="https://maps.google.com/maps/api/js?sensor=true&amp;key="></script>
     <script src="assets/js/plugins/jquery.gmap.min.js"></script>
     <script src="assets/js/map-addresses.js"></script>
     <script src="assets/js/map-custom.js"></script>
